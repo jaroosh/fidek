@@ -1,0 +1,26 @@
+zmienic troche tutaj konwencje
+zeby zamiast 
+	Views
+		x y
+bylo
+
+
+Content
+	User
+		Controller
+		View
+		ViewModel
+
+...w Nancy ;)
+
+mozna zrobic tak ze jest service soution per aggregate
+wtedy mielibysmy solucje np.
+UserManagement
+	Service
+	INterface
+	BusinessModel
+	DAl
+	Host
+tamto zeby generowalo pakiety ktore podbijamy tutaj poprostu
+jako UserService
+ale to jest za prosty projekt
